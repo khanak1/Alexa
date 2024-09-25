@@ -1,25 +1,25 @@
 <div align="center">
 	<h3>👑 AK Whatsapp Bot 👑</h3>
-<img src="https://i.ibb.co/z52R6XR/bg.jpg" width="300" height="300">
+<img src="https://photos.app.goo.gl/eVWSW82ThwWgY7ne7" width="300" height="300">
 </div>
 <hr>
 <img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+AK...;Created+by+Afzaal Khan...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+AK..."
             alt="Typing">
 
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="Afzaal_Khan">
+	<img src="https://photos.app.goo.gl/eVWSW82ThwWgY7ne7" width="300" height="150" alt="Afzaal_Khan">
 </div>
 
 <hr>
 
-			Alexa බොට් යනු WhatsApp සඳහා වන පරිශීලක බොට් එකක් වන අතර එමඟින් ඔබට බොහෝ කාර්යයන් ඉටු කිරීමට ඉඩ සලසයි. මෙය විවෘත මූලාශ්‍ර ව්‍යාපෘතියක් නොවේ. මෙය බොට් යන්ත්‍රයක් යෙදවීමට ඔබට ඉඩ සලසන ව්‍යාපෘතියක් පමණි
+			AK WhatsApp bot is a user bot for WhatsApp that allows you to perform many tasks. This is not an open source project. This is just a project that allows you to deploy a bot
        
 <h3>How To Deploy </h3>
 
 <h5>First tap to Fork button and create new fork</h5>
 
 <h4>Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">Alexa Official Web Site</a></h1>
+<h1><a href="http://sadiyamin.github.io/Test">AK Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
@@ -34,7 +34,7 @@
 
 <h5>PAIR CODE is not working...but you can join our supported group and get your creads.json fill & you are uplode in session folder.Now you can deploy Alexa Bot</h5>
 <h3>Supported Group link </h3>
-<a href="https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4">Join Alexa Supported 👧</a>
+<a href="https://chat.whatsapp.com/FCPmEG7I8lkGTHmt8i4EP5">Join AK Bot Group 👧</a>
 <hr>
 <h5>Deploy Free Koyeb👇</h5>
 <a href="http://koyeb.com" ><img src="https://i.ibb.co/t4KftP0/images.png width="50" height="25"></a>
