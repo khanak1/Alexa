@@ -19,7 +19,7 @@
 <h5>First tap to Fork button and create new fork</h5>
 
 <h4>Following 👇</h4>
-<h1><a href="http://sadiyamin.github.io/Test">AK Official Web Site</a></h1>
+<h1><a href="http://github.com/Afzaal-786">AK Official Web Site</a></h1>
 <p><tbody>
 
 <hr>
@@ -77,44 +77,29 @@ jobs:
       run: npm start
 ```
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Sadeesha_Min" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=Created+By+Afzaal_Khan" alt="">
 <hr>
 
 
 <h5>TOTAL WEB VIEWS 🌹</h5>
-<img src="https://profile-counter.glitch.me/Sadeesha/count.svg" center>
+<img src="https://github.com/Afzaal-786/Alexa/blob/832b363760e5abb9f5ff93ec8611e8863e26af61/20240925_211249.jpg" center>
 
 <hr>
 
 <div align="center">
-<h3>Alexa Developer Team 👤</h3>
+<h3>AK Bot Developer 👤</h3>
 
-| Sadeesha 👤             | Vihanga 👤            | Nisitha 👤             | Maneth 👤             | Imalshan 👤             |                       
+| Afzaal Khan 👤 |                       
 |----------------------|----------------------|----------------------|----------------------|----------------------|
-| [![Owner](https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Maneth](https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg)](https://github.com/sadiyamin/Alexa/) | [![Imalshan](http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp)](https://github.com/sadiyamin/Alexa)
+| [![Owner](https://github.com/Afzaal-786/Alexa/blob/832b363760e5abb9f5ff93ec8611e8863e26af61/20240925_211249.jpg)]
 
 </div>
 
-<hr>
-
-<div align="center">
-    
-| Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
-|----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
-
-| Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
-|---------------------|---------------------|---------------------|
-| [![GitHub release](https://img.shields.io/github/release/PikaBotz/Anya_v2-Md.svg)](https://GitHub.com/sadiyamin/Alexa/releases/) | [![GitHub latest commit](https://badgen.net/github/last-commit/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/commit/) | [![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://GitHub.com/sadiyamin/Alexa/graphs/commit-activity) |
-
-
-</div>
-
-<h5>Thank You For Using Alexa 💗</h5>
+<h5>Thank You For Using AK Bot 💗</h5>
 
 <hr>
 
 <h3>⚠️ Warning!</h3>
 
-<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Alpha Queen executives do not take responsibility. By setting up Alexa Bot you are considered to have assumed these responsibilities.</h5>
+<h5>Because of user bots; Your WhatsApp account can be banned. You are responsible for everything you do. Most likely, using WhatsApp setting management commands too much may caused getting banned. Certainly, Afzaal Khan executives do not take responsibility. By setting up AK Bot you are considered to have assumed these responsibilities.</h5>
 <hr>
