@@ -1,13 +1,13 @@
 <div align="center">
-	<h3>👸🏻Alexa Whatsapp Bot👸🏻</h3>
+	<h3>👑 AK Whatsapp Bot 👑</h3>
 <img src="https://i.ibb.co/z52R6XR/bg.jpg" width="300" height="300">
 </div>
 <hr>
-<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+Alexa...;Created+by+Sadeesha...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+Alexa..."
+<img src="https://readme-typing-svg.herokuapp.com?size=33&width=1000&lines=Welcome+To+AK...;Created+by+Afzaal Khan...;World+Best+Whatsapp+User+Bot...;Simple+Java+Script+Bot...;Simple+And+Fast+Deploy...;Thank+You+For+Using+AK..."
             alt="Typing">
 
 <div align="center">
-	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="sadeesha">
+	<img src="https://moe-counter.glitch.me/get/@Anya_v2-Md?theme=gelbooru" width="300" height="150" alt="Afzaal_Khan">
 </div>
 
 <hr>
