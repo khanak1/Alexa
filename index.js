@@ -72,7 +72,7 @@ const {
     
     let up = `AK Whatsapp Bot Connected Successfully ✅\n\n*PREFIX:${prefix}*\n\n*Join Our Group*\nhttps://chat.whatsapp.com/FCPmEG7I8lkGTHmt8i4EP5\n\n> Thank you for using AK Bot 💗\n> Created by Afzaal Khan`;
     
-    conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://i.ibb.co/z52R6XR/bg.jpg` }, caption: up })
+    conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://github.com/Afzaal-786/Alexa/blob/832b363760e5abb9f5ff93ec8611e8863e26af61/20240925_211249.jpg` }, caption: up })
     
     }
     })
