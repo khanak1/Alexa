@@ -19,27 +19,27 @@ let desc = `
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Sadeesha Tharumin_
+│❖ *ᴏᴡɴᴇʀ :* _Afzaal_Khan 👑_
 └────────────────
 
-*I'm Alive Now 👸🏻*
+*I'm Alive Now 🧸*
 
 ┌────────────────
-│ _*Alexa Official Web Site*_
-│ https://sadiyamin.github.io/|||Test
+│ _*AK Official FB*_
+│ https://m.facebook.com/afzaalkhan.k
 └────────────────
 ┌────────────────
-│ _*Alexa Github Repo*_
-│ http://github.com/sadiyamin/Alexa 
+│ _*AK Github*_
+│ http://github.com/Afzaal-786 
 └────────────────
 ┌────────────────
-│ _*Alexa Public Group*_
-│ https://chat.whatsapp.com/Ci5mDk9zEVF95NcuqEtzl4
+│ _*Public Earning Group*_
+│ https://chat.whatsapp.com/FCPmEG7I8lkGTHmt8i4EP5
 └────────────────
 
-> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ  🧑🏻‍💻*
+> *Created By Afzaal_Khan 👑*
 `
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/z52R6XR/bg.jpg`},caption: desc},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://github.com/khanak1/Alexa/blob/main/20240928_154259.jpg`},caption: desc},{quoted: mek})
 
 }catch(e){
 console.log(e)
