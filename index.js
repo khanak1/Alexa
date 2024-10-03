@@ -24,7 +24,7 @@ const {
     
     //===================SESSION-AUTH============================
     if (!fs.existsSync(__dirname + '/app.json')) {
-    if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
+    if(!config.SESSION_ID) return console.log('izumi~YvPH1yqZ')
     const sessdata = config.SESSION_ID
     const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
     filer.download((err, data) => {
