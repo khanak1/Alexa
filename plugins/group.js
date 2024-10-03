@@ -121,7 +121,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 cmd({
     pattern: "setwelcome",
-    desc: "Set the welcome message for the group.",
+    desc: "Welcome @user to the @group",
     category: "group",
     react: "👋",
     filename: __filename
