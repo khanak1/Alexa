@@ -108,7 +108,7 @@ let downloadUrl = down.dl_url
 
 //________________________________Send-Video_____________________________________________
 
-await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4",caption:"*©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*"},{quoted:mek})
+await conn.sendMessage(from,{video: {url:downloadUrl},mimetype:"video/mp4",caption:"*Created by Afzaal_Khan.👑*"},{quoted:mek})
 
 
 }catch(e){
