@@ -20,16 +20,16 @@ const {
     const { File } = require('megajs')
     const prefix = '.'
     
-    const ownerNumber = ['+923556159234']
+    const ownerNumber = ['923556159234']
     
     //===================SESSION-AUTH============================
-    if (!fs.existsSync(__dirname + '/app.json')) {
-    if(!config.SESSION_ID) return console.log('sVQARK7L#dIcOsuWEKWns_Kt2ZNhum4dpMIRWDRhkWhNB74cW-u8')
+    if (!fs.existsSync(__dirname + '/session/creds.json')) {
+    if(!config.SESSION_ID) return console.log('Please add your session to SESSION_ID env !!')
     const sessdata = config.SESSION_ID
     const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
     filer.download((err, data) => {
     if(err) throw err
-    fs.writeFile(__dirname + '/config.json', data, () => {
+    fs.writeFile(__dirname + '/session/creds.json', data, () => {
     console.log("Session downloaded ✅")
     })})}
     
@@ -41,13 +41,13 @@ const {
     
     async function connectToWA() {
     console.log("Connecting wa bot 🧬...");
-    const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/app.json')
+    const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
     var { version } = await fetchLatestBaileysVersion()
     
     const conn = makeWASocket({
             logger: P({ level: 'silent' }),
             printQRInTerminal: false,
-            browser: Browsers.macOS("Chrome"),
+            browser: Browsers.macOS("Firefox"),
             syncFullHistory: true,
             auth: state,
             version
@@ -68,9 +68,9 @@ const {
     }
     });
     console.log('Plugins installed successful ✅')
-    console.log('AK Bot connected to whatsapp ✅\nCreated By Afzaal Khan')
+    console.log('AK Bot connected to whatsapp ✅\nCreated by Afzaal Khan 👑')
     
-    let up = `AK Whatsapp Bot Connected Successfully ✅\n\n*PREFIX:${prefix}*\n\n*Join Our Group*\nhttps://chat.whatsapp.com/FCPmEG7I8lkGTHmt8i4EP5\n\n> Thank you for using AK Bot 💗\n> Created by Afzaal Khan`;
+    let up = `AK Whatsapp Bot Connected Successfully ✅\n\n*PREFIX:${prefix}*\n\n*Join Our Group*\nhttps://chat.whatsapp.com/FCPmEG7I8lkGTHmt8i4EP5\n\n*Updates Channels*\nhttps://whatsapp.com/channel/0029VaHJSUeC6Zvq89X23w2k\n\n*Thank you for using AK-Bot💗*\n\n> Created by Afzaal Khan\n> version 1.0`;
     
     conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://github.com/khanak1/Alexa/blob/main/20240928_154259.jpg` }, caption: up })
     
@@ -136,13 +136,13 @@ const {
                   }
                 }
 //__________________OWNER REACT_______________________________________________________________________
-                if(senderNumber.includes("+923556159234")){
+                if(senderNumber.includes("923556159234")){
                     if(isReact) return
-                    m.react("🎭")
+                    m.react("🧸")
                   }
-                if(senderNumber.includes("+923556159234")){
+                if(senderNumber.includes("923556159234")){
                     if(isReact) return
-                    m.react("🎭")
+                    m.react("🧸")
                   }
 //_________________________WORK TYPE____________________________________________________________________
     if(!isOwner && config.MODE === "public") return
