@@ -17,11 +17,11 @@ let desc = `
 │❖ *ᴜᴘᴛɪᴍᴇ :* _${runtime(process.uptime())}_
 │❖ *ʀᴀᴍ ᴜꜱᴀɢᴇ :*  _${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB_
 │❖ *ʜᴏꜱᴛ ɴᴀᴍᴇ :* _${os.hostname()}_
-│❖ *ᴏᴡɴᴇʀ :* _Sadeesha Tharumin_
+│❖ *ᴏᴡɴᴇʀ :* _Afzaal_Khan_
 └────────────────
-Ａｌｅｘａ Ｗｈａｔｓａｐｐ Ｂｏｔ👸🏻
+*AK WhatsApp Bot 👑*
 ┌────────────
-❖ *📚ALEXA ALL COMMANDS📚*└────────────
+❖ *📚AK All COMMANDS📚*└────────────
 ┌────────────
 ❖ *📥DOWNLOAD COMMANDS📥*
 │
@@ -55,7 +55,7 @@ let desc = `
 │ ✑ _.awoo_
 └────────────
 ┌────────────
-❖ *👤OWNER COMMANDS👤️*
+❖ *👑OWNER COMMANDS👑*
 │
 │ ✑ _.block_
 │ ✑ _.unblock_
@@ -71,7 +71,7 @@ let desc = `
 │ ✑ _.tts_
 └────────────
 ┌────────────
-❖ *👸🏻AI COMMANDS👸🏻*
+❖ *🧸AI COMMANDS🧸*
 │
 │ ✑ _.ai_
 │ ✑ _.cgpt_
@@ -88,7 +88,7 @@ let desc = `
 │ ✑ _.getpic_
 └────────────
 ┌────────────
-❖ *🧧MAIN COMMANDS🧧*
+❖ *🎭MAIN COMMANDS🎭*
 │
 │ ✑ _.ping_
 │ ✑ _.system_
@@ -96,9 +96,9 @@ let desc = `
 │ ✑ _.src_
 └────────────
 
-> *©ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ 🧑🏻‍💻*
+> *Created By Afzaal Khan 👑*
 `
-return await conn.sendMessage(from,{image: {url: `https://i.ibb.co/z52R6XR/bg.jpg`},caption: desc},{quoted: mek})
+return await conn.sendMessage(from,{image: {url: `https://github.com/khanak1/Alexa/blob/main/20240928_154259.jpg`},caption: desc},{quoted: mek})
 }catch(e){
 console.log(e)
 reply(`${e}`)
