@@ -26,8 +26,8 @@ media = q.videoMessage
 var result = await conn.downloadAndSaveMediaMessage(media)
 
 let stickerResult = new Sticker(result, {
-            pack: packname,
-            author: author,
+            pack: "Khan🧸",
+            author: "Afzaal_Khan 👑",
             type: StickerTypes.FULL,
             categories: ["🤩", "🎉"],
             id: "12345",
