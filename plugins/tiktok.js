@@ -32,7 +32,7 @@ const data = await response.json()
 const tikvid = data.data.no_wm
 reply("_*Downloading your tiktok video＿＿📥*_")
 reply("_*Uploading your tiktok video＿＿📤*_")
-await conn.sendMessage(from,{video : {url : tikvid },caption : `┌────────────\n*ᴀʟᴇxᴀ ꜰᴀᴄᴇʙᴏᴏᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ..✅*\n_*ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*_\n└─────────────`,mimetype:"video/mp4"},{quoted : mek})
+await conn.sendMessage(from,{video : {url : tikvid },caption : `┌────────────\n*ᴀᴋ ꜰᴀᴄᴇʙᴏᴏᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ..✅*\n_*Created by Afzaal_Khan..🧑🏻‍💻*_\n└─────────────`,mimetype:"video/mp4"},{quoted : mek})
 
 }catch(e){
     console.log(e)
