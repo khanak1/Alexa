@@ -1,13 +1,13 @@
 {
-  "name": "Khan(main)",
+  "name": "AK",
   "description": "Simple Whatsapp Bot.You Can Esy Deploy📲",
-  "logo": "https://github.com/khanak1/Alexa/blob/main/20241001_180820.jpg",
+  "logo": "https://github.com/khanak1/Alexa/blob/main/20240928_154259.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
   "success_url": "/",
 
   
     "SESSION_ID": {
-      "description": "put your session id",
+      "description": "izumi~YvPH1yqZ",
       "required": true
     },  
   
