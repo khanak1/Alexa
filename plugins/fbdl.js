@@ -29,7 +29,7 @@ const data = await response.json()
 const fbvid = data.data.sd
 reply("_*Downloading your facebook video＿＿📥*_")
 reply("_*Uploading your facebook video＿＿📤*_")
-await conn.sendMessage(from,{video : {url : fbvid },caption : `┌────────────\n*ᴀʟᴇxᴀ ꜰᴀᴄᴇʙᴏᴏᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ..✅*\n_*ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ..🧑🏻‍💻*_\n└─────────────`, mimetype:"video/mp4"},{quoted:mek})
+await conn.sendMessage(from,{video : {url : fbvid },caption : `┌────────────\n*ᴀᴋ ꜰᴀᴄᴇʙᴏᴏᴋ ᴅᴏᴡɴʟᴏᴀᴅᴇʀ..✅*\n_*Created By Afzaal_Khan..🧑🏻‍💻*_\n└─────────────`, mimetype:"video/mp4"},{quoted:mek})
 
 }catch(e){
     console.log(e)
