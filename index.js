@@ -24,12 +24,12 @@ const {
     
     //===================SESSION-AUTH============================
     if (!fs.existsSync(__dirname + '/app.json')) {
-    if(!config.SESSION_ID) return console.log('izumi~YvPH1yqZ')
+    if(!config.SESSION_ID) return console.log('sVQARK7L#dIcOsuWEKWns_Kt2ZNhum4dpMIRWDRhkWhNB74cW-u8')
     const sessdata = config.SESSION_ID
     const filer = File.fromURL(`https://mega.nz/file/${sessdata}`)
     filer.download((err, data) => {
     if(err) throw err
-    fs.writeFile(__dirname + '/app.json', data, () => {
+    fs.writeFile(__dirname + '/config.json', data, () => {
     console.log("Session downloaded ✅")
     })})}
     
@@ -72,7 +72,7 @@ const {
     
     let up = `AK Whatsapp Bot Connected Successfully ✅\n\n*PREFIX:${prefix}*\n\n*Join Our Group*\nhttps://chat.whatsapp.com/FCPmEG7I8lkGTHmt8i4EP5\n\n> Thank you for using AK Bot 💗\n> Created by Afzaal Khan`;
     
-    conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://github.com/Afzaal-786/Alexa/blob/832b363760e5abb9f5ff93ec8611e8863e26af61/20240925_211249.jpg` }, caption: up })
+    conn.sendMessage(ownerNumber + "@s.whatsapp.net", { image: { url: `https://github.com/khanak1/Alexa/blob/main/20240928_154259.jpg` }, caption: up })
     
     }
     })
@@ -145,7 +145,7 @@ const {
                     m.react("🎭")
                   }
 //_________________________WORK TYPE____________________________________________________________________
-    if(!isOwner && config.MODE === "private") return
+    if(!isOwner && config.MODE === "public") return
     if(!isOwner && isGroup && config.MODE === "inbox") return
     if(!isOwner && !isGroup && config.MODE === "groups") return
     
